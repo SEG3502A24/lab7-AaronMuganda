@@ -4,3 +4,7 @@
 Access SpringBoot RESTFul API - in branch *server* 
 
 Access Angular Client Application - in branch *client*
+
+| Prénom & Nom | Numéro d'étudiant |
+|-------------|---------------|
+| Aaron Muganda | 300246117 |
